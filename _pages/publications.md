@@ -19,7 +19,7 @@ Koichi Hamada, Kentaro Tachibana, Tianqi Li, <b>Hiroto Honda</b>, Yusuke Uchida
 
 <b>The 6th Place Solution for the Open Images 2019 Object Detection Track</b>  
 <b>Hiroto Honda (Schwert)</b>  
-[[Poster]](files/schwert_open_images_6th_solution_v1.pdf)
+[[Poster]](../files/schwert_open_images_6th_solution_v1.pdf)
 [[Kaggle Discussion]](https://www.kaggle.com/c/open-images-2019-object-detection/discussion/110953)
 
 <b>The 11th Place Solution for the Open Images 2019 Instance Segmentation Track</b>  
