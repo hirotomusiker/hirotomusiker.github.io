@@ -16,6 +16,14 @@ ECCVW, 2018.
 [[Paper]](http://people.ee.ethz.ch/~timofter/publications/Honda-CVPRW-2015.pdf)  
 CVPRW, pp.82-90, 2015.  
 
+## Presentations
+
+<b>Tackling Open Images Challenge</b>  
+<b>Hiroto Honda</b>,  
+[[Slides in English]](https://www.slideshare.net/HHiroto/tackling-open-images-challenge-235469464)
+[[Slides in Japanese]](https://www.slideshare.net/HHiroto/open-images-235464179)  
+lunch workshop, the 26th Symposium on Sensing via Image Information (2020). 
+
 ## Competition Solutions
 
 <b>The 6th Place Solution for the Open Images 2019 Object Detection Track</b>  
