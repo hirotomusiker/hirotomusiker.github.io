@@ -4,6 +4,10 @@ permalink: /medium/
 author_profile: true
 ---
 
+## Colab Walkthrough
+
+[[Vision Transformer]](https://medium.com/@hirotoschwert/an-unofficial-colab-walkthrough-of-vision-transformer-8bcd592ba26a) : An unofficial colab walkthrough of Vision Transformer
+
 ## Digging Into Detectron 2
 
 [[part 1]](https://medium.com/@hirotoschwert/digging-into-detectron-2-47b2e794fabd) : Introduction - Basic Network Architecture and Repo Structure  

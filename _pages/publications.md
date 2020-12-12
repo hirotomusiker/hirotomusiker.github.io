@@ -6,6 +6,10 @@ author_profile: true
 
 ## Conference Papers
 
+<b>Leveraging Temporal Joint Depths for Improving 3D Human Pose Estimation in Video</b>  
+Naoki Kato, <b>Hiroto Honda</b>, Yusuke Uchida  
+[[Paper]](https://arxiv.org/abs/2011.02172)
+
 <b>Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks</b>  
 Koichi Hamada, Kentaro Tachibana, Tianqi Li, <b>Hiroto Honda</b>, Yusuke Uchida  
 [[Paper]](https://arxiv.org/abs/1809.01890)
