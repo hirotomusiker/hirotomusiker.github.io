@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+for the full publication list, please see [Google Scholar](https://scholar.google.com/citations?user=pl6vQGUAAAAJ)  
+(patents excluded).
+
 ## Conference Papers
 
 <b>Leveraging Temporal Joint Depths for Improving 3D Human Pose Estimation in Video</b>  
