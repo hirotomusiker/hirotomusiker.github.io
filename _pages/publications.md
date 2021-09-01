@@ -9,6 +9,10 @@ for the full publication list, please see [Google Scholar](https://scholar.googl
 
 ## Conference Papers
 
+<b>End-to-End Monocular Vanishing Point Detection Exploiting Lane Annotations</b>  
+<b>Hiroto Honda</b>, Motoki Kimura, Takumi Karasawa, Yusuke Uchida  
+[[Paper]](https://arxiv.org/abs/2108.13699)
+
 <b>Leveraging Temporal Joint Depths for Improving 3D Human Pose Estimation in Video</b>  
 Naoki Kato, <b>Hiroto Honda</b>, Yusuke Uchida  
 [[Paper]](https://arxiv.org/abs/2011.02172)
@@ -23,7 +27,13 @@ ECCVW, 2018.
 [[Paper]](http://people.ee.ethz.ch/~timofter/publications/Honda-CVPRW-2015.pdf)  
 CVPRW, pp.82-90, 2015.  
 
+For non-computer-vision publications, please see [Google Scholar](https://scholar.google.com/citations?user=pl6vQGUAAAAJ).
+
 ## Presentations
+
+<b>Digging into Sample Assignment Methods for Object Detection</b>  
+<b>Hiroto Honda</b>,  
+[[Slides]](https://speakerdeck.com/hirotohonda/digging-into-sample-assignment-methods-for-object-detection)
 
 <b>Tackling Open Images Challenge</b>  
 <b>Hiroto Honda</b>,  
