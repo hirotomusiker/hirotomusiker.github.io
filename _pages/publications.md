@@ -7,7 +7,7 @@ author_profile: true
 for the full publication list, please see [Google Scholar](https://scholar.google.com/citations?user=pl6vQGUAAAAJ)  
 (patents excluded).
 
-## Conference Papers
+## Papers
 
 <b>End-to-End Monocular Vanishing Point Detection Exploiting Lane Annotations</b>  
 <b>Hiroto Honda</b>, Motoki Kimura, Takumi Karasawa, Yusuke Uchida  
@@ -26,8 +26,6 @@ ECCVW, 2018.
 <b>Hiroto Honda</b>, Radu Timofte, Luc Van Gool  
 [[Paper]](http://people.ee.ethz.ch/~timofter/publications/Honda-CVPRW-2015.pdf)  
 CVPRW, pp.82-90, 2015.  
-
-For non-computer-vision publications, please see [Google Scholar](https://scholar.google.com/citations?user=pl6vQGUAAAAJ).
 
 ## Presentations
 
