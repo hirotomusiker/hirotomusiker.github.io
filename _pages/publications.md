@@ -11,11 +11,11 @@ for the full publication list, please see [Google Scholar](https://scholar.googl
 
 <b>End-to-End Monocular Vanishing Point Detection Exploiting Lane Annotations</b>  
 <b>Hiroto Honda</b>, Motoki Kimura, Takumi Karasawa, Yusuke Uchida  
-[[Paper]](https://arxiv.org/abs/2108.13699)
+[[Paper]](https://arxiv.org/abs/2108.13699)  arXiv, 2021.
 
 <b>Leveraging Temporal Joint Depths for Improving 3D Human Pose Estimation in Video</b>  
 Naoki Kato, <b>Hiroto Honda</b>, Yusuke Uchida  
-[[Paper]](https://arxiv.org/abs/2011.02172)
+[[Paper]](https://arxiv.org/abs/2011.02172)  GCCE, 2020.
 
 <b>Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks</b>  
 Koichi Hamada, Kentaro Tachibana, Tianqi Li, <b>Hiroto Honda</b>, Yusuke Uchida  
@@ -24,8 +24,7 @@ ECCVW, 2018.
 
 <b>Make My Day - High-Fidelity Color Denoising with Near-Infrared</b>  
 <b>Hiroto Honda</b>, Radu Timofte, Luc Van Gool  
-[[Paper]](http://people.ee.ethz.ch/~timofter/publications/Honda-CVPRW-2015.pdf)  
-CVPRW, pp.82-90, 2015.  
+[[Paper]](http://people.ee.ethz.ch/~timofter/publications/Honda-CVPRW-2015.pdf) CVPRW, pp.82-90, 2015.  
 
 ## Presentations
 
