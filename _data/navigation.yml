@@ -3,11 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Medium Blogs"
+  - title: "Blogs"
     url: /medium/
 
   - title: "OSS"
     url: /oss/
+
+  - title: "Services"
+    url: /services/
 
   #- title: "Teaching"
   #  url: /teaching/

@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-- Interested in Computer Vision & AI Research roles and eager to contribute to the global research community.
-- Deep expertise in computer vision - e.g. object detection, image restoration and video recognition.
-- Skilled integrator of multiple technologies to solve real world problems. (see: https://dena.ai/cv/ )
-- Kaggle Master: won the 6th place (solo gold) and two solo silver medals at the same time in Open Images Competition (ICCV2019).
+- Computer vision engineer at GO Inc. as of Jul. 2024.
+- Deep expertise in computer vision - e.g. object detection and image restoration.
 - Broad and extensive R&D experiences - from academia to industry and from hardware to software.
-- Worked as a visiting researcher at the computer vision lab, ETH Zurich. 
+- Technical reviewer at ECCV, WACV, CVPR Workshop (NTIRE) and ECCV Workshop (AIM).
+- Kaggle Master: won the 6th place (solo gold) and two solo silver medals at the same time in Open Images Competition (ICCV2019).
+- Worked as a visiting researcher at the computer vision lab, ETH Zurich (2013-2014).
