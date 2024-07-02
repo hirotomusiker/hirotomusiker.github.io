@@ -11,8 +11,8 @@ for the full publication list, please see [Google Scholar](https://scholar.googl
 
 <b>CLRerNet: Improving Confidence of Lane Detection with LaneIoU</b><br>
 <b>Hiroto Honda</b>, Yusuke Uchida<br>
-[[Preprint]](https://arxiv.org/abs/2305.08366) [[Code]](https://github.com/hirotomusiker/CLRerNet) <b>Accepted to WACV2024.</b><br>
-[SOTA on CULane lane detection benchmark](https://paperswithcode.com/sota/lane-detection-on-culane) as of July 2023.<br>
+[[Paper]](https://openaccess.thecvf.com/content/WACV2024/html/Honda_CLRerNet_Improving_Confidence_of_Lane_Detection_With_LaneIoU_WACV_2024_paper.html) [[Code]](https://github.com/hirotomusiker/CLRerNet) <b>Accepted to WACV2024.</b><br>
+[SOTA on CULane lane detection benchmark](https://paperswithcode.com/sota/lane-detection-on-culane) as of July 2024.<br>
 
 
 <b>End-to-End Monocular Vanishing Point Detection Exploiting Lane Annotations</b>  
