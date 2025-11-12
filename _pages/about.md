@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-- Computer vision engineer at GO Inc. as of Jul. 2024.
-- Deep expertise in computer vision - e.g. object detection and image restoration.
+- Independent Researcher on computer vision and machine learning.
+- Computer vision engineer at GO Drive Inc. as of Nov. 2025.
+- Deep expertise in object detection, lane detection, image restoration and continual learning.
 - Broad and extensive R&D experiences - from academia to industry and from hardware to software.
-- Technical reviewer at ECCV, WACV, CVPR Workshop (NTIRE) and ECCV Workshop (AIM).
+- Technical reviewer at CVPR, ECCV, WACV, CVPR Workshop (NTIRE) and ECCV Workshop (AIM).
 - Kaggle Master: won the 6th place (solo gold) and two solo silver medals at the same time in Open Images Competition (ICCV2019).
 - Worked as a visiting researcher at the computer vision lab, ETH Zurich (2013-2014).
