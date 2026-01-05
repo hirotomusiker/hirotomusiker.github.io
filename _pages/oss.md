@@ -4,6 +4,11 @@ permalink: /oss/
 author_profile: true
 ---
 
+## Continual Learning
+
+[[APR-EFCIL]](https://github.com/hirotomusiker/APR-EFCIL)
+The official implementation of [Adversarial Pseudo-replay for Exemplar-free Class-incremental Learning](https://www.arxiv.org/abs/2511.17973)
+
 ## Object / Lane Detection
 
 [[CLRerNet]](https://github.com/hirotomusiker/CLRerNet)  

@@ -1,10 +1,13 @@
-# main links links
+# main links
 main:
   - title: "Publications"
     url: /publications/
 
   - title: "Blogs"
-    url: /medium/
+    url: /blogs/
+
+  - title: "Slides"
+    url: /slides/
 
   - title: "OSS"
     url: /oss/

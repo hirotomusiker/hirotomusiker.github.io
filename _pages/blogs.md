@@ -1,6 +1,6 @@
 ---
-title: "Medium Blog Posts"
-permalink: /medium/
+title: "Blog Posts"
+permalink: /blogs/
 author_profile: true
 ---
 
@@ -25,4 +25,4 @@ author_profile: true
 
 ## Others
 
-[[blog]](https://medium.com/@hirotoschwert/introduction-to-deep-super-resolution-c052d84ce8cf) Introduction to Deep Super Resolution  
+[[blog]](https://medium.com/@hirotoschwert/introduction-to-deep-super-resolution-c052d84ce8cf) Introduction to Deep Super Resolution
