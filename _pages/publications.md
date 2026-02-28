@@ -11,7 +11,7 @@ for the full publication list, please see [Google Scholar](https://scholar.googl
 
 <b>Adversarial Pseudo-replay for Exemplar-free Class-incremental Learning</b><br>
 <b>Hiroto Honda</b> (as an independent researcher) <br>
-[[arXiv](https://www.arxiv.org/abs/2511.17973)] [[Code](https://github.com/hirotomusiker/APR-EFCIL)] <b>Accepted to WACV2026.</b><br>
+[[Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Honda_Adversarial_Pseudo-replay_for_Exemplar-free_Class-incremental_Learning_WACV_2026_paper.pdf)] [[Code](https://github.com/hirotomusiker/APR-EFCIL)] <b>Accepted to WACV2026.</b><br>
 
 <b>CLRerNet: Improving Confidence of Lane Detection with LaneIoU</b><br>
 <b>Hiroto Honda</b>, Yusuke Uchida<br>

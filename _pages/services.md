@@ -6,9 +6,10 @@ author_profile: true
 
 ## Reviewer (Main Conferences)
 
-- <b>CVPR</b>: Conference on Computer Vision and Pattern Recognition [2025](https://cvpr.thecvf.com/Conferences/2025)
+- <b>CVPR</b>: Conference on Computer Vision and Pattern Recognition [2026](https://cvpr.thecvf.com/Conferences/2026), [2025](https://cvpr.thecvf.com/Conferences/2025)
 - <b>ECCV</b>: European Conference on Computer Vision [2024](https://eccv.ecva.net/Conferences/2024)
 - <b>WACV</b>: IEEE/CVF Winter Conference on Applications of Computer Vision [2026](https://wacv.thecvf.com/Conferences/2026), [2025](https://wacv2025.thecvf.com/), [2024](https://wacv2024.thecvf.com/)
+- <b>ACMMM</b>: ACM International Conference on Multimedia [2025](https://acmmm2025.org/)
 
 ## PC Member (Workshops)
 
